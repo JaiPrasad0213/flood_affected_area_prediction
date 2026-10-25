@@ -1,7 +1,7 @@
 import os
 import joblib
 import json
-from ml.train_weather_models import train_flood_models
+from ml.train_flood_models import train_flood_models
 
 
 def save_trained_artifacts():

@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0973c7d-b3fb-4acf-924c-17cf51f503fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/my_flood_affected_area_prediction_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_flood_affected_area_prediction_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/model_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/model_loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/predict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schemas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml/preprocess_weather_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml/preprocess_weather_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml/save_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml/save_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml/train_weather_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml/train_weather_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/streamlit_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/streamlit_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_model_metrics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_model_metrics.csv" afterDir="false" />
-    </list>
+    <list default="true" id="a0973c7d-b3fb-4acf-924c-17cf51f503fa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
